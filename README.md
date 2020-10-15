@@ -45,7 +45,9 @@ An online and completely free event that will help you take the next step in you
 
 Happy is a project developed based on Children's Day. 
 That aims to connect people to orphanages that allow to make a children's day more special.
-[Imgur](https://imgur.com/3EYvZ4Y)
+
+
+<img align="center" alt="home" src="happy.PNG" width="500">
 
 
 ## :rocket: Technologies
